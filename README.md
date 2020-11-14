@@ -1,2 +1,2 @@
-# Cybertek Ticketing Project Initial Template
+#Ticketing Project Initial Template
 
